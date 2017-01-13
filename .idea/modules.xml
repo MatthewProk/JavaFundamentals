@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask1/HomeTask1.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask1/HomeTask1.iml" group="HomeTask1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask1/HomeTask1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask1/HomeTask1_main.iml" group="HomeTask1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask1/HomeTask1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask1/HomeTask1_test.iml" group="HomeTask1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask2/HomeTask2.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask2/HomeTask2.iml" group="HomeTask2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask2/HomeTask2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask2/HomeTask2_main.iml" group="HomeTask2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask2/HomeTask2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask2/HomeTask2_test.iml" group="HomeTask2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask3/HomeTask3.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask3/HomeTask3.iml" group="HomeTask3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask3/HomeTask3_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask3/HomeTask3_main.iml" group="HomeTask3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask3/HomeTask3_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask3/HomeTask3_test.iml" group="HomeTask3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask4/HomeTask4.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask4/HomeTask4.iml" group="HomeTask4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask4/HomeTask4_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask4/HomeTask4_main.iml" group="HomeTask4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask4/HomeTask4_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask4/HomeTask4_test.iml" group="HomeTask4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask5/HomeTask5.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask5/HomeTask5.iml" group="HomeTask5" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask5/HomeTask5_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask5/HomeTask5_main.iml" group="HomeTask5" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask5/HomeTask5_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask5/HomeTask5_test.iml" group="HomeTask5" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask6/HomeTask6.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask6/HomeTask6.iml" group="HomeTask6" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask6/HomeTask6_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask6/HomeTask6_main.iml" group="HomeTask6" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeTask6/HomeTask6_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeTask6/HomeTask6_test.iml" group="HomeTask6" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFundamentals.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFundamentals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFundamentals_main.iml" group="JavaFundamentals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFundamentals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFundamentals_test.iml" group="JavaFundamentals" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+rootProject.name = 'JavaFundamntals'
+rootProject.name = 'JavaFundamentals'
+include 'HomeTask1'
+include 'HomeTask2'
+include 'HomeTask3'
+include 'HomeTask4'
+include 'HomeTask5'
+include 'HomeTask6'
+
