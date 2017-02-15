@@ -31,6 +31,28 @@
       <module name="HomeTask5_test" target="1.5" />
       <module name="HomeTask6_main" target="1.5" />
       <module name="HomeTask6_test" target="1.5" />
+      <module name="HomeWork1(INTRO)_main" target="1.5" />
+      <module name="HomeWork1(INTRO)_test" target="1.5" />
+      <module name="HomeWork1_main" target="1.5" />
+      <module name="HomeWork1_test" target="1.5" />
+      <module name="HomeWork2(OOP)_main" target="1.5" />
+      <module name="HomeWork2(OOP)_test" target="1.5" />
+      <module name="HomeWork3(STRING)_main" target="1.5" />
+      <module name="HomeWork3(STRING)_test" target="1.5" />
+      <module name="HomeWork4(IO-Streams)_main" target="1.5" />
+      <module name="HomeWork4(IO-Streams)_test" target="1.5" />
+      <module name="HW2HomeTask1_main" target="1.5" />
+      <module name="HW2HomeTask1_test" target="1.5" />
+      <module name="HW2HomeTask2_main" target="1.5" />
+      <module name="HW2HomeTask2_test" target="1.5" />
+      <module name="HW2HomeTask3_main" target="1.5" />
+      <module name="HW2HomeTask3_test" target="1.5" />
+      <module name="HW2HomeTask6_main" target="1.5" />
+      <module name="HW2HomeTask6_test" target="1.5" />
+      <module name="HW3HomeTask1_main" target="1.5" />
+      <module name="HW3HomeTask1_test" target="1.5" />
+      <module name="HW3HomeTask2_main" target="1.5" />
+      <module name="HW3HomeTask2_test" target="1.5" />
       <module name="JavaFundamentals_main" target="1.5" />
       <module name="JavaFundamentals_test" target="1.5" />
     </bytecodeTargetLevel>

@@ -6,4 +6,8 @@ include 'HomeTask3'
 include 'HomeTask4'
 include 'HomeTask5'
 include 'HomeTask6'
+include 'HomeWork1(INTRO)'
+include 'HomeWork2(OOP)'
+include 'HomeWork3(STRING)'
+include 'HomeWork4(IO-Streams)'
 
